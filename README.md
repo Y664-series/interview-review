@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="docs/images/header.png" alt="Interview Review：从录音、原文诊断到下一次回答的主题插画" width="880" />
   <h1>Interview Review · 面试深度复盘</h1>
   <p><strong>把飞书妙记变成有原文依据、能继续追问的面试复盘。</strong></p>
   <p>面向希望从真实面试中改进回答的求职者 · Agent Skill</p>
