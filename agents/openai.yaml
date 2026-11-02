@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试深度复盘"
+  short_description: "从飞书妙记生成有依据的逐题诊断、参考回答与训练计划，并排版为飞书文档"
+  default_prompt: "使用 $interview-review 复盘这场面试，保留完整原文，核查关键判断，并输出带原文定位链接的飞书文档。"
